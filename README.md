@@ -1,5 +1,4 @@
 # Assignment_01
 ## Heuristic Evaluations 
 
-Assignment 1.docx
-
+https://github.com/izuberi/Assignment_01/raw/master/Assignment%201.pdf
